@@ -1,0 +1,9 @@
+1. autó tömege : 220000 kg
+2. autó tömege : 290000 kg
+3. autó tömege : 366000 kg
+4. autó tömege : 240000 kg
+5. autó tömege : 220000 kg
+6. autó tömege : 255000 kg
+7. autó tömege : 300000 kg
+8. autó tömege : 209000 kg
+9. autó tömege : 31000 kg
